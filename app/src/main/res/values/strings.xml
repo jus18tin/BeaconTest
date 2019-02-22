@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BeaconFromRN</string>
+
+    <string name="btn_yes">"はい"</string>
+    <string name="btn_no">"いいえ"</string>
+    <string name="btn_ok">"確認"</string>
+    <string name="btn_cancel">"キャンセル"</string>
+
 </resources>
